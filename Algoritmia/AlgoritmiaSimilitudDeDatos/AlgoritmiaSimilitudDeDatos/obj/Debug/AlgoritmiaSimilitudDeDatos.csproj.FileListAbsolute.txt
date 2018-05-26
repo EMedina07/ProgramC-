@@ -1,0 +1,6 @@
+D:\projeb\AlgoritmiaSimilitudDeDatos\AlgoritmiaSimilitudDeDatos\bin\Debug\AlgoritmiaSimilitudDeDatos.exe.config
+D:\projeb\AlgoritmiaSimilitudDeDatos\AlgoritmiaSimilitudDeDatos\bin\Debug\AlgoritmiaSimilitudDeDatos.exe
+D:\projeb\AlgoritmiaSimilitudDeDatos\AlgoritmiaSimilitudDeDatos\bin\Debug\AlgoritmiaSimilitudDeDatos.pdb
+D:\projeb\AlgoritmiaSimilitudDeDatos\AlgoritmiaSimilitudDeDatos\obj\Debug\AlgoritmiaSimilitudDeDatos.csprojResolveAssemblyReference.cache
+D:\projeb\AlgoritmiaSimilitudDeDatos\AlgoritmiaSimilitudDeDatos\obj\Debug\AlgoritmiaSimilitudDeDatos.exe
+D:\projeb\AlgoritmiaSimilitudDeDatos\AlgoritmiaSimilitudDeDatos\obj\Debug\AlgoritmiaSimilitudDeDatos.pdb
